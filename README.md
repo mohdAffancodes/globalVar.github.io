@@ -8,3 +8,6 @@ JUST DECLARE A SIMPLE VAR in a javascript file and name global
 AND USE THE GLOBAL VARIABLES IN OTHER FILES USING THIS SYNTAX
 
 # window.variableName
+
+Here's the link my website for info
+# https://mohdaffancodes.github.io/globalVariables/
