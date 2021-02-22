@@ -9,5 +9,5 @@ AND USE THE GLOBAL VARIABLES IN OTHER FILES USING THIS SYNTAX
 
 # window.variableName
 
-Here's the link my website for info
+Here's the link my website for more info
 # https://mohdaffancodes.github.io/globalVariables/
