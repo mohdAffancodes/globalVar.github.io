@@ -1,13 +1,12 @@
 # JAVASCRIPT
 
-# GLOBAL VARIABLES ACROSS FILES
+# GLOBAL VARIABLES 
 
 This is a simple way to declare variables across multiple files
 
-JUST DECLARE A SIMPLE VAR in a javascript file and name global
-AND USE THE GLOBAL VARIABLES IN OTHER FILES USING THIS SYNTAX
+JUST DECLARE A SIMPLE VARIABLE in a javascript file and name it global.js or anything you want AND USE THESE GLOBAL VARIABLES IN OTHER FILES(js) USING THIS SYNTAX
 
 # window.variableName
 
-Here's the link my website for more info
+Here's the link to my website for more info
 # https://mohdaffancodes.github.io/globalVariables/
