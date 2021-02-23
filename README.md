@@ -9,4 +9,5 @@ JUST DECLARE A SIMPLE VARIABLE in a javascript file and name it global.js or any
 # window.variableName
 
 Here's the link to my website for more info
-# https://mohdaffancodes.github.io/globalVariables/
+
+https://mohdaffancodes.github.io/globalVariables/
