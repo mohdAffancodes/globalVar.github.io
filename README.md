@@ -1,6 +1,6 @@
 # JAVASCRIPT
 
-Simole way to declare global variables 
+Simple way to declare global variables 
 
 # GLOBAL VARIABLES 
 
