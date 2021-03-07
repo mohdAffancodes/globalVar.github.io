@@ -1,4 +1,5 @@
 # JAVASCRIPT
+
 # GLOBAL VARIABLES 
 
 This is a simple way to declare variables across multiple files
